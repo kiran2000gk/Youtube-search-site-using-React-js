@@ -17,7 +17,7 @@ class Searchbar extends React.Component {
         <h2 className="text-center">
           <img
             className=" w-25 h-25 m-3 justify-content-center"
-            src="https://github.com/kiran2000gk/youtube-api/blob/7d8d33151ff0d0b840269e7fe45c3af543836d45/imgs.jpg?raw=true"
+            src="https://upload.wikimedia.org/wikipedia/commons/e/e1/Logo_of_YouTube_%282015-2017%29.svg"
             alt="youtube logo"
           />
         </h2>
